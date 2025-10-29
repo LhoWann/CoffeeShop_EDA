@@ -2,6 +2,11 @@
 
 Proyek ini berisi analisis data dari sebuah dataset Coffee Shop menggunakan Python dan *library* populer seperti Pandas, Seaborn, dan Matplotlib. Analisis ini bertujuan untuk mengekstrak wawasan mengenai preferensi pelanggan dan pola operasional outlet.
 
+Oleh Kelompok 2:
+1. Muhammad Ridwan
+2. Alifianda Putri Nur Agusti
+3. Nashwa Aqeela Irtisa Rudin
+4. Moch. Rafi Nanda Prayogo
 ---
 
 ## ☕ Deskripsi Dataset
