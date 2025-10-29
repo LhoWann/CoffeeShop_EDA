@@ -1,4 +1,4 @@
-# 📊 Analisis Data Coffee Shop oleh Muhammad Ridwan (103102400012)
+# 📊 Analisis Data Coffee Shop
 
 Proyek ini berisi analisis data dari sebuah dataset Coffee Shop menggunakan Python dan *library* populer seperti Pandas, Seaborn, dan Matplotlib. Analisis ini bertujuan untuk mengekstrak wawasan mengenai preferensi pelanggan dan pola operasional outlet.
 
